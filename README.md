@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my  project.
 <br>
-Author - PALAK TRIVEDI
+Author - PALAK (Apna College)
