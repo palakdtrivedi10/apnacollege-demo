@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my my project
+This is my  project
+Author - PALAK TRIVEDI
